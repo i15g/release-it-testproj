@@ -8,5 +8,10 @@
   },
   "devDependencies": {
     "release-it": "^10.1.0"
+  },
+  "release-it":{
+    "npm": {
+      "publish": false
+    }
   }
 }
