@@ -1,6 +1,6 @@
 {
   "name": "release-it-testproj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -9,7 +9,7 @@
   "devDependencies": {
     "release-it": "^10.1.0"
   },
-  "release-it":{
+  "release-it": {
     "npm": {
       "publish": false
     }
