@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "release": "yarn release-it --increment"
+    "release": "yarn release-it patch"
   },
   "devDependencies": {
     "release-it": "^10.1.0"
